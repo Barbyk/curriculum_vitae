@@ -1,0 +1,155 @@
+{
+  "person": {
+    "name": "Barbara KPADET",
+    "mobile": "06 30 13 98 52",
+    "email": "bkpadet@gmail.com",
+    "github": "https://github.com/Barbyk",
+    "adress": "1 rue jaume 94550 Chevilly-larue"
+  },
+  "profil": {
+    "resume": "Passionnée par les nouvelles technologies et étant curieuse de nature, je suis actuellement en recherche d'une entreprise pour un stage en mars 2019. Celui-ci me permettra d'approfondir mes connaissances en ReactJS, Angular 6/7, NodeJS (Express) et sur les méthodes agiles.",
+    "job": "Développeuse Front-end Junior"
+  },
+  "skills": {
+    "skill": [
+      "javascript",
+      "react",
+      "angular",
+      "node",
+      "html",
+      "css",
+      "bootstrap",
+      "material ui",
+      "ui kit",
+      "mysql",
+      "linux",
+      "visual studio code",
+      "github",
+      "gitlab",
+      "git"
+    ]
+  },
+  "interests": {
+    "interest": [
+      "voyage",
+      "lecture",
+      "musique",
+      "culture japonaise",
+      "lingerie"
+    ]
+  },
+  "projects": {
+    "project": [
+      {
+        "id": "1",
+        "title": "Blog personnel (en cours)",
+        "skills": [
+          "ReactJS",
+          "NodeJS (Express)",
+          "MySQL"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Site Maison d'hôtes (en cours)",
+        "skills": "Webflow"
+      }
+    ]
+  },
+  "educations": {
+    "education": [
+      {
+        "id": "1",
+        "title": "FORMATION WEB DEV",
+        "school": "WILD CODE SCHOOL",
+        "city": "PARIS",
+        "year": "2019",
+        "more": "Prépa Titre Développeur Logiciel - Bac +2"
+      },
+      {
+        "id": "2",
+        "title": "CONTRAT SYNDIC",
+        "school": "ECOLE SUP IMMOBILLIER",
+        "city": "LA DEFENSE",
+        "year": "2015"
+      },
+      {
+        "id": "3",
+        "title": "LICENCE CHIMIQUES",
+        "school": "UNIVERSITE CRETEIL",
+        "city": "CRETEIL",
+        "year": "2009"
+      },
+      {
+        "id": "4",
+        "title": "BACCALAUREAT STL OPTION CHIMIE",
+        "school": "LYCEE D'ARSONVAL",
+        "city": "SAINT-MAUR-DES-FOSSES",
+        "year": "2006"
+      }
+    ]
+  },
+  "experiences": {
+    "experience": [
+      {
+        "id": "1",
+        "title": "IT PROJECT MANAGER (STAGE)",
+        "enterprise": "Tessan",
+        "period": "février 2019",
+        "missions": [
+          "Création de site e-commerce (WordPress)",
+          "Gestion de bug sur projet (GitLab)",
+          "Chargée de recrutement"
+        ]
+      },
+      {
+        "id": "2",
+        "title": "DÉVELOPPEUR WEB JUNIOR",
+        "enterprise": "Wild Code School",
+        "period": "septembre 2018 à février 2019",
+        "projects": {
+          "project": [
+            {
+              "id": "1",
+              "title": "Wildo Coda Collectif's blog",
+              "description": "Site du collectif Wildo Coda : Photographes de Paris",
+              "skills": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap3",
+                "JavaScript"
+              ]
+            },
+            {
+              "id": "2",
+              "title": "CookieMovies",
+              "description": "Historisation personnelle de films",
+              "skills": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap3",
+                "ReactJS",
+                "API (TheMovieDatabase)"
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Maraudons.fr (Client réel)",
+              "description": "Centralisation des Associations d'île de France",
+              "skills": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "ReactJS",
+                "Redux",
+                "NodeJS (Express)",
+                "MySQL"
+              ],
+              "method": "Méthodes agiles (SCRUM)"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
