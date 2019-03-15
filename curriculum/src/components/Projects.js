@@ -34,7 +34,7 @@ export default class Projects extends Component {
             const { id, title, skills } = project;
             return (
               <div key={id}>
-                <h2>{title}</h2>
+                <h3>{title}</h3>
                 <p>{skills}</p>
               </div>
             );
