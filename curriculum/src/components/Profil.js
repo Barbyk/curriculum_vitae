@@ -1,14 +1,14 @@
 import React, { Component } from 'react'
 import axios from 'axios';
 
-export default class Experiences extends Component {
+export default class Profil extends Component {
     state = {
         profil: [],
         isLoading: true,
         error: null
     }
 
-    getExperiences() {
+    getProfil() {
         axios
             .get('http://localhost:3001/profil')
             .then(res => {
@@ -21,16 +21,17 @@ export default class Experiences extends Component {
     }
 
     componentDidMount() {
-        this.getExperiences()
+        this.getProfil()
     }
     render() {
+        const { isLoading, profil } = this.state;
         return (
             <React.Fragment>
                 <h2>Résumé</h2>
                 <div>
                     {!isLoading ? (
                         <div>
-                            <p>{resume}</p>
+                            <p>{profil.resume}</p>
                         </div>
                     ) : (<p>Loading...</p>)}
                 </div>
