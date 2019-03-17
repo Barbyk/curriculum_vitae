@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import "../components/Projects.css"
 
 
 const Projects = ({ projects }) => (
