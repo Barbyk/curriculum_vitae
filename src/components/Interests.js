@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 import "./Interests.css"
 
 
-const Interests = ({interests}) =>(
+const Interests = ({ interests }) =>(
 <React.Fragment>
-                <div className="card container-fluid border-secondary mb-3">
+                <div className="card container-fluid border-secondary mb-3 m-3">
                     <div className="card-body">
-                        <h2 className="card-title">INTERETS</h2>
+                        <h2 className="card-title">INTÉRÊTS</h2>
                         <div>
                             {
                                 interests.map((interest, i) =>(
@@ -29,4 +29,4 @@ Interests.defaultProps = {
 }
 
 
-export default Interests
+export default Interests;
