@@ -30,4 +30,4 @@ Projects.defaultProps = {
   projects: [],
 }
 
-export default Projects
+export default Projects;

@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import "./Interests.css"
+import "./Interests.scss"
 
 
 const Interests = ({ interests }) =>(
@@ -9,12 +9,7 @@ const Interests = ({ interests }) =>(
                     <div className="card-body">
                         <h2 className="card-title">INTÉRÊTS</h2>
                         <div>
-                            {
-                                interests.map((interest, i) =>(
-                                        <div key={i} className="int">
-                                            <p className="space_2">{interest}</p>
-                                        </div>
-                                ))}
+                        <p className="space_2">{interests.join(', ')}</p>
                         </div>
                     </div>
                 </div>
