@@ -1,0 +1,47 @@
+.card-title {
+  background-color: rgb(181, 160, 201);
+  padding: 10px 10px;
+  width: 100%;
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+
+p, a {
+  font-family: 'Jura', sans-serif;
+  font-size: 20px;
+}
+
+h3, h4, h5 {
+  font-family: 'Jura', sans-serif;
+  font-size: 20px;
+  font-weight: bold !important;
+}
+
+.person, .formation, .solo {
+  display: flex;
+}
+
+@media only screen and (max-width: 768px) {
+  .person, .formation, .solo {
+    flex-direction: column;
+  }
+
+  .card-title {
+    font-size: 20px
+  }
+
+  p, a {
+    font-size: 15px
+  }
+
+  h3 {
+    font-size: 17px !important;
+  }
+
+  h4 {
+    font-size: 15px !important;
+  }
+
+  h5 {
+    font-size: 13px !important;
+  }
+}

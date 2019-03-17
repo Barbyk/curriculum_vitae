@@ -12,30 +12,30 @@
   },
   "skills": {
     "skill": [
-      "javascript",
-      "react",
-      "angular",
-      "node",
-      "html",
-      "css",
-      "bootstrap",
-      "material ui",
-      "ui kit",
-      "mysql",
-      "linux",
-      "visual studio code",
-      "github",
-      "gitlab",
-      "git"
+      "Javascript",
+      "ReactJS",
+      "Angular",
+      "NodeJS (Express)",
+      "HTML5",
+      "CSS3",
+      "Bootstrap3",
+      "Material UI",
+      "UI Kit",
+      "MySQL",
+      "Linux",
+      "Visual Studio Code",
+      "GitHub",
+      "GitLab",
+      "Git"
     ]
   },
   "interests": {
     "interest": [
-      "voyage",
-      "lecture",
-      "musique",
-      "culture japonaise",
-      "lingerie"
+      "Voyage",
+      "Lecture",
+      "Musique",
+      "Culture japonaise",
+      "Lingerie"
     ]
   },
   "projects": {
@@ -95,7 +95,7 @@
         "id": "1",
         "title": "IT PROJECT MANAGER (STAGE)",
         "enterprise": "Tessan",
-        "period": "février 2019",
+        "period": "Février 2019",
         "missions": [
           "Création de site e-commerce (WordPress)",
           "Gestion de bug sur projet (GitLab)",
@@ -106,49 +106,47 @@
         "id": "2",
         "title": "DÉVELOPPEUR WEB JUNIOR",
         "enterprise": "Wild Code School",
-        "period": "septembre 2018 à février 2019",
-        "projects": {
-          "project": [
-            {
-              "id": "1",
-              "title": "Wildo Coda Collectif's blog",
-              "description": "Site du collectif Wildo Coda : Photographes de Paris",
-              "skills": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap3",
-                "JavaScript"
-              ]
-            },
-            {
-              "id": "2",
-              "title": "CookieMovies",
-              "description": "Historisation personnelle de films",
-              "skills": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap3",
-                "ReactJS",
-                "API (TheMovieDatabase)"
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Maraudons.fr (Client réel)",
-              "description": "Centralisation des Associations d'île de France",
-              "skills": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap",
-                "ReactJS",
-                "Redux",
-                "NodeJS (Express)",
-                "MySQL"
-              ],
-              "method": "Méthodes agiles (SCRUM)"
-            }
-          ]
-        }
+        "period": "Septembre 2018 à Février 2019",
+        "project": [
+          {
+            "id": "1",
+            "title": "Wildo Coda Collectif's blog",
+            "description": "Site du collectif Wildo Coda : Photographes de Paris",
+            "skills": [
+              "HTML5",
+              "CSS3",
+              "Bootstrap3",
+              "JavaScript"
+            ]
+          },
+          {
+            "id": "2",
+            "title": "CookieMovies",
+            "description": "Historisation personnelle de films",
+            "skills": [
+              "HTML5",
+              "CSS3",
+              "Bootstrap3",
+              "ReactJS",
+              "API (TheMovieDatabase)"
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Maraudons.fr (Client réel)",
+            "description": "Centralisation des Associations d'île de France",
+            "skills": [
+              "HTML5",
+              "CSS3",
+              "Bootstrap3",
+              "ReactJS",
+              "Redux",
+              "NodeJS (Express)",
+              "MySQL"
+            ],
+            "method": "Méthodes agiles (SCRUM)"
+          }
+        ]
       }
     ]
   }
