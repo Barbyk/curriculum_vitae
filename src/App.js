@@ -25,7 +25,6 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.state.information);
     const { information } = this.state;
     return (
       <div>
