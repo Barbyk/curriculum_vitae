@@ -12,23 +12,23 @@ self.__precacheManifest = [
     "url": "/curriculum_vitae/static/js/runtime~main.d91bf91e.js"
   },
   {
-    "revision": "0c27ab60747422023545",
-    "url": "/curriculum_vitae/static/js/main.d82ca856.chunk.js"
+    "revision": "4b2b58d5095132e89d3b",
+    "url": "/curriculum_vitae/static/js/main.780bebfb.chunk.js"
   },
   {
-    "revision": "9648e7906c14fa53ce37",
-    "url": "/curriculum_vitae/static/js/2.e8bb9b45.chunk.js"
+    "revision": "8c1844f270a444eab20e",
+    "url": "/curriculum_vitae/static/js/2.188b3232.chunk.js"
   },
   {
-    "revision": "0c27ab60747422023545",
-    "url": "/curriculum_vitae/static/css/main.4cd0a21b.chunk.css"
+    "revision": "4b2b58d5095132e89d3b",
+    "url": "/curriculum_vitae/static/css/main.270773a6.chunk.css"
   },
   {
-    "revision": "9648e7906c14fa53ce37",
+    "revision": "8c1844f270a444eab20e",
     "url": "/curriculum_vitae/static/css/2.6f09b03c.chunk.css"
   },
   {
-    "revision": "2b5f81de23e9d3746f2edd902ebd8ae1",
+    "revision": "8da1332ad6480a7d91d02dcf435d837d",
     "url": "/curriculum_vitae/index.html"
   }
 ];
