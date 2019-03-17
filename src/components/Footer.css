@@ -1,0 +1,10 @@
+footer {
+    background-color: rgb(214, 189, 236);
+    position: absolute;
+    width: 100%;
+     font-family: "Josefin Sans";
+}
+
+.copyright {
+    text-align: center
+}

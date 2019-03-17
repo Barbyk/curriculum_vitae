@@ -107,48 +107,46 @@
         "title": "DÉVELOPPEUR WEB JUNIOR",
         "enterprise": "Wild Code School",
         "period": "septembre 2018 à février 2019",
-        "projects": {
-          "project": [
-            {
-              "id": "1",
-              "title": "Wildo Coda Collectif's blog",
-              "description": "Site du collectif Wildo Coda : Photographes de Paris",
-              "skills": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap3",
-                "JavaScript"
-              ]
-            },
-            {
-              "id": "2",
-              "title": "CookieMovies",
-              "description": "Historisation personnelle de films",
-              "skills": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap3",
-                "ReactJS",
-                "API (TheMovieDatabase)"
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Maraudons.fr (Client réel)",
-              "description": "Centralisation des Associations d'île de France",
-              "skills": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap",
-                "ReactJS",
-                "Redux",
-                "NodeJS (Express)",
-                "MySQL"
-              ],
-              "method": "Méthodes agiles (SCRUM)"
-            }
-          ]
-        }
+        "project": [
+          {
+            "id": "1",
+            "title": "Wildo Coda Collectif's blog",
+            "description": "Site du collectif Wildo Coda : Photographes de Paris",
+            "skills": [
+              "HTML5",
+              "CSS3",
+              "Bootstrap3",
+              "JavaScript"
+            ]
+          },
+          {
+            "id": "2",
+            "title": "CookieMovies",
+            "description": "Historisation personnelle de films",
+            "skills": [
+              "HTML5",
+              "CSS3",
+              "Bootstrap3",
+              "ReactJS",
+              "API (TheMovieDatabase)"
+            ]
+          },
+          {
+            "id": "3",
+            "title": "Maraudons.fr (Client réel)",
+            "description": "Centralisation des Associations d'île de France",
+            "skills": [
+              "HTML5",
+              "CSS3",
+              "Bootstrap",
+              "ReactJS",
+              "Redux",
+              "NodeJS (Express)",
+              "MySQL"
+            ],
+            "method": "Méthodes agiles (SCRUM)"
+          }
+        ]
       }
     ]
   }
