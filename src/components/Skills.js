@@ -4,16 +4,16 @@ import "./Skills.css"
 
 const Skills = ({ skills }) => (
     <React.Fragment>
-        <div className="card container-fluid border-secondary mb-3">
+        <div className="card container-fluid border-secondary mb-3 m-3">
             <div className="card-body">
                 <h2 className="card-title">OUTILS</h2>
                 <div>
                     {
-                        skills.map(((skill, i)=> (
+                        skills.map((skill, i)=> (
                             <div key={i} className="skills">
                                 <p className="space">{skill}</p>
                             </div>
-                        )))}
+                        ))}
                 </div>
             </div>
         </div>
@@ -21,11 +21,11 @@ const Skills = ({ skills }) => (
 )
 
 Skills.propTypes = {
-    skills: PropTypes.array
+    skills: PropTypes.array,
 }
 
 Skills.defaultProps = {
-    skills: []
+    skills: [],
 }
 
-export default Skills
+export default Skills;

@@ -1,5 +1,13 @@
+body {
+  background: url('../src/assets/palm-leaf.png')
+}
+
+.card{
+  background-color: rgba(231, 231, 241, 0.432) !important;
+}
+
 .card-title {
-  background-color: rgb(181, 160, 201);
+  background-color: rgb(199, 174, 223);
   padding: 10px 10px;
   width: 100%;
   font-family: 'ZCOOL XiaoWei', serif;
