@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import "./Skills.css"
+import "./Skills.scss"
 
 const Skills = ({ skills }) => (
     <React.Fragment>
@@ -8,12 +8,7 @@ const Skills = ({ skills }) => (
             <div className="card-body">
                 <h2 className="card-title">OUTILS</h2>
                 <div>
-                    {
-                        skills.map((skill, i)=> (
-                            <div key={i} className="skills">
-                                <p className="space">{skill}</p>
-                            </div>
-                        ))}
+                    <p>{skills.join(', ')}</p>
                 </div>
             </div>
         </div>

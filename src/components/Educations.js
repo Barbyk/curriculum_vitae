@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types';
-import "./Educations.css"
+import "./Educations.scss"
 
 
 const Educations = ({ educations }) =>(
@@ -17,7 +17,6 @@ const Educations = ({ educations }) =>(
                                     <p>{more}</p>
                                 </div>
                             ))
-
                     }
                 </div>
             </div>

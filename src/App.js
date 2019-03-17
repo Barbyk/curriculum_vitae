@@ -10,7 +10,7 @@ import Interests from "./components/Interests";
 import Educations from "./components/Educations";
 import Footer from "./components/Footer"
 
-import './App.css';
+import './App.scss';
 
 class App extends Component {
 
