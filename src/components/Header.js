@@ -7,8 +7,8 @@ export default class Header extends Component {
         return (
             <React.Fragment>
                 <nav className="navbar fixed-top">
-                <img className="logobarby" src={logo}  alt=""></img>
-                <h2>Développeuse Front-end Junior</h2>
+                    <img className="logobarby" src={logo} alt=""></img>
+                    <h2>Développeuse Front-end Junior</h2>
                 </nav>
                 <header />
             </React.Fragment>
