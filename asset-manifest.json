@@ -1,5 +1,5 @@
 {
-  "main.css": "/curriculum_vitae/static/css/main.270773a6.chunk.css",
+  "main.css": "/curriculum_vitae/static/css/main.29c3e45f.chunk.css",
   "main.js": "/curriculum_vitae/static/js/main.780bebfb.chunk.js",
   "main.js.map": "/curriculum_vitae/static/js/main.780bebfb.chunk.js.map",
   "runtime~main.js": "/curriculum_vitae/static/js/runtime~main.d91bf91e.js",
@@ -8,10 +8,10 @@
   "static/js/2.188b3232.chunk.js": "/curriculum_vitae/static/js/2.188b3232.chunk.js",
   "static/js/2.188b3232.chunk.js.map": "/curriculum_vitae/static/js/2.188b3232.chunk.js.map",
   "index.html": "/curriculum_vitae/index.html",
-  "precache-manifest.afdc7a0191c3f3cc399db19a0f882122.js": "/curriculum_vitae/precache-manifest.afdc7a0191c3f3cc399db19a0f882122.js",
+  "precache-manifest.07cd6f5ac69fabade5620f91656c6331.js": "/curriculum_vitae/precache-manifest.07cd6f5ac69fabade5620f91656c6331.js",
   "service-worker.js": "/curriculum_vitae/service-worker.js",
   "static/css/2.6f09b03c.chunk.css.map": "/curriculum_vitae/static/css/2.6f09b03c.chunk.css.map",
-  "static/css/main.270773a6.chunk.css.map": "/curriculum_vitae/static/css/main.270773a6.chunk.css.map",
+  "static/css/main.29c3e45f.chunk.css.map": "/curriculum_vitae/static/css/main.29c3e45f.chunk.css.map",
   "static/media/hexagon.png": "/curriculum_vitae/static/media/hexagon.5e683589.png",
   "static/media/App.scss": "/curriculum_vitae/static/media/palm-leaf.1458ca16.png"
 }

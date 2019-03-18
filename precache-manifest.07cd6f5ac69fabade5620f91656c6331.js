@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/curriculum_vitae/static/js/runtime~main.d91bf91e.js"
   },
   {
-    "revision": "4b2b58d5095132e89d3b",
+    "revision": "085eb4879e5e68f96a9c",
     "url": "/curriculum_vitae/static/js/main.780bebfb.chunk.js"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/curriculum_vitae/static/js/2.188b3232.chunk.js"
   },
   {
-    "revision": "4b2b58d5095132e89d3b",
-    "url": "/curriculum_vitae/static/css/main.270773a6.chunk.css"
+    "revision": "085eb4879e5e68f96a9c",
+    "url": "/curriculum_vitae/static/css/main.29c3e45f.chunk.css"
   },
   {
     "revision": "8c1844f270a444eab20e",
     "url": "/curriculum_vitae/static/css/2.6f09b03c.chunk.css"
   },
   {
-    "revision": "8da1332ad6480a7d91d02dcf435d837d",
+    "revision": "6a4e4b59b54719913542d436935dd24c",
     "url": "/curriculum_vitae/index.html"
   }
 ];
